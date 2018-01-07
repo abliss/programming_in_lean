@@ -20,7 +20,7 @@ calculi.
 
 The idea is simple. If =a=, =b=, =c=, and =d= are formulas of
 propositional logic, the sequent =a, b, c ⊢ d= represents the goal of
-proving that =d= follows from =a=, =b= and =c=, and =d=. The fact that
+proving that =d= follows from =a=, =b= and =c=. The fact that
 they are propositional formulas means that they are built up from
 variables of type =Prop= and the constants =true= and =false= using
 the connectives =∧ ∨ → ↔ ¬=. The proof procedure proceeds as follows:
